@@ -19,4 +19,4 @@ H0+p0Ghr0YBwpzvSpJKMy7mBAsmhYi/P5vyq6kStQtbhHKgObqtM8IxOntkqKG3u
 tpdJ5OkFzSS/
 -----END CERTIFICATE-----
 
-string proxyHost = "66.33.22.246", int proxyPort = 13823
+string proxyHost = "66.33.22.246", int proxyPort = 55733
